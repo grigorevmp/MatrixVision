@@ -1,1 +1,1 @@
-![alt text](https://github.com/grigorevmp/MatrixVision/matrix.png)
+![alt text](https://github.com/grigorevmp/MatrixVision/blob/master/matrix.png)
